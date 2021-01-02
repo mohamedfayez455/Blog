@@ -1,5 +1,5 @@
 
-In this projecti bulit an advanced blogger , we will be using Sentinel to control all of the authentication process.
+In this project I bulit an advanced blogger , we will be using Sentinel to control all of the authentication process.
 show the users's profile ,
 user's posts ,
 and update your profile as well.
